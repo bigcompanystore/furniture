@@ -1,5 +1,13 @@
 const products = [
   {
+    image:"asset/gambar1.jpg" ,
+    title: "kartun" ,
+    info: "Ini adalah gambar kartun yang baik"  ,
+},
+  
+  
+  
+  {
     image:"asset/meuble1.jpg" ,
     title: "Futuristic Meuble" ,
     info: "My Meuble with artistic theme build with heart and full of functionality"  ,
