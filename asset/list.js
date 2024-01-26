@@ -1,6 +1,6 @@
 const products = [
   {
-    image:"asset/gambar1.jpg" ,
+    image:"asset/kartun1.jpeg" ,
     title: "kartun" ,
     info: "Ini adalah gambar kartun yang baik"  ,
 },
