@@ -1,8 +1,8 @@
 const products = [
   {
     image:"asset/kartun1.jpeg" ,
-    title: "kartun" ,
-    info: "Ini adalah gambar kartun yang baik"  ,
+    title: "kursi" ,
+    info: "berbagai macam kursi"  ,
 },
   
   
