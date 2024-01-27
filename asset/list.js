@@ -1,8 +1,8 @@
 const products = [
   {
     image:"asset/kartun1.jpeg" ,
-    title: "kursi" ,
-    info: "berbagai macam kursi"  ,
+    title: "chairs" ,
+    info: "various kinds of chairs"  ,
 },
   
   
