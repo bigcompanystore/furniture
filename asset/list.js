@@ -32,8 +32,8 @@ const products = [
 },
  {
   image:"asset/meuble2.jpg" ,
-    title: "My Beautiful Meuble" ,
-    info: "The scene and the beautiful landscape will force the creativity to build the meuble to the limit"  ,
+    title: "Round Dining Table & Chairs for Small Homes" ,
+    info: "Not all of us are lucky to have a huge home with enough space for fancy chairs and dining tables. This space saving dining table works for 4 people but"  ,
 },
   {
     image:"asset/meuble1.jpg" ,
