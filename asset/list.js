@@ -47,6 +47,11 @@ const products = [
     title: "Arditi Collection Sled Coffee Table Wood in Gray | 13.7 H x 39.5 W x 39.5 D" ,
     info: "Arditi Collection is one of the exclusive designers and producers"  ,
 },
+  {
+  image:"asset/meuble.8.jpg" ,
+    title: "Moscow Table" ,
+    info: "Glam form an essential function combine to create this must"  ,
+},
 
 
   ]
