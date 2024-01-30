@@ -58,7 +58,7 @@ const products = [
     info: "An iconic design from Vincent’s archives, revisited."  ,
 },
   {
-  image:"asset/meuble.10.jpg" ,
+  image:"asset/meuble.11.jpg" ,
     title: "Dumont Armoire - 72\" - Solid Cherry - Teak Finish - Mid Century Modern Inspired" ,
     info: "Product Details
 Stunning armoire built entirely in solid wood (pictured in solid cherry with a teak stain)
