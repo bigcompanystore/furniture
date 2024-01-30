@@ -30,8 +30,8 @@ const products = [
   },
    {
     image:"asset/meuble1.jpg" ,
-    title: "Futuristic Meuble" ,
-    info: "My Meuble with artistic theme build with heart and full of functionality"  ,
+    title: "Crafting Dreams from Timber: Unlock 16,000 Plans" ,
+    info: "Experience the satisfaction of crafting functional and beautiful pieces using TedsWoodworking's foolproof plans."  ,
 },
  {
   image:"asset/meuble2.jpg" ,
