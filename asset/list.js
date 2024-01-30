@@ -43,7 +43,7 @@ const products = [
     info: "unique home decor unique home decor ideas unique home decorating"  ,
 },
  {
-  image:"asset/meuble2.jpg" ,
+  image:"asset/meuble.8.jpg" ,
     title: "Arditi Collection Sled Coffee Table Wood in Gray | 13.7 H x 39.5 W x 39.5 D" ,
     info: "Arditi Collection is one of the exclusive designers and producers"  ,
 },
