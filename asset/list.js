@@ -29,7 +29,7 @@ const products = [
     info: "fideliohaus — truebluemeandyou: Japanese Table and Chairs in a"  ,
   },
    {
-    image:"asset/meuble1.jpg" ,
+    image:"asset/meuble.5.jpg" ,
     title: "Crafting Dreams from Timber: Unlock 16,000 Plans" ,
     info: "Experience the satisfaction of crafting functional and beautiful pieces using TedsWoodworking's foolproof plans."  ,
 },
