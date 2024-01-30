@@ -1,6 +1,6 @@
 const products = [
   {
-    image:"asset/meuble..1.jpeg" ,
+    image:"asset/meuble..1.jpg" ,
     title: "chairs" ,
     info: "various kinds of chairs"  ,
 },
