@@ -53,7 +53,7 @@ const products = [
     info: "Glam form an essential function combine to create this must"  ,
 },
   {
-  image:"asset/meuble.10.jpg" ,"asset/meuble.10.jpg" ,
+  image:"asset/meuble.10.jpg" ,
     title: "Cabinet 01" ,
     info: "An iconic design from Vincent’s archives, revisited."  ,
 },
