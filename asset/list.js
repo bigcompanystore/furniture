@@ -57,6 +57,17 @@ const products = [
     title: "Cabinet 01" ,
     info: "An iconic design from Vincent’s archives, revisited."  ,
 },
+  {
+  image:"asset/meuble.10.jpg" ,
+    title: "Dumont Armoire - 72\" - Solid Cherry - Teak Finish - Mid Century Modern Inspired" ,
+    info: "Product Details
+Stunning armoire built entirely in solid wood (pictured in solid cherry with a teak stain)
+3 doors
+4 drawers
+72" W x 22" D x 76" H (body 68", base 8")
+Solid leg base for extra support
+Made to order. Please allow approx. 8-10 weeks for production."  ,
+},
 
 
   ]
