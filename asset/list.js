@@ -8,7 +8,7 @@ const products = [
   
   
   {
-    image:"asset/meuble1.jpg" ,
+    image:"asset/meuble.1.jpg" ,
     title: "Futuristic Meuble" ,
     info: "My Meuble with artistic theme build with heart and full of functionality"  ,
 },
