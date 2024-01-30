@@ -36,7 +36,7 @@ const products = [
     info: "Not all of us are lucky to have a huge home with enough space for fancy chairs and dining tables. This space saving dining table works for 4 people but"  ,
 },
   {
-    image:"asset/meuble1.jpg" ,
+    image:"asset/meuble.7.jpg" ,
     title: " Wonder Walls: Unique Home Masterpieces " ,
     info: "unique home decor unique home decor ideas unique home decorating ideas unique home decors unique home decoration unique home decorations unique home decorating unique homes decor unique home decor idea unique home accent unique home accents unique home decor pieces unique home ideas unique home accessory unique home accessories unique home designs unique home interiors unique home interior unique home design unique home idea uniques home ideas unique homes ideas unique homes interior unique home
 "  ,
