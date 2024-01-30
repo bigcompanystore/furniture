@@ -44,8 +44,8 @@ const products = [
 },
  {
   image:"asset/meuble2.jpg" ,
-    title: "My Beautiful Meuble" ,
-    info: "The scene and the beautiful landscape will force the creativity to build the meuble to the limit"  ,
+    title: "Arditi Collection Sled Coffee Table Wood in Gray | 13.7 H x 39.5 W x 39.5 D" ,
+    info: "Arditi Collection is one of the exclusive designers and producers"  ,
 },
 
 
