@@ -22,7 +22,6 @@ const products = [
     title: "Buy Teak Wood Sofa Set Online | TeakLab" ,
     info: "A sofa set is a truly regal piece of furniture for your home. Finely crafted from the best quality teak wood, its fineness is simply out of this world"  ,
   },
-
   {
  image:"asset/meuble.4.jpg" ,
     title: "fideliohaus — truebluemeandyou: Japanese Table and Chairs in a" ,
@@ -40,15 +39,14 @@ const products = [
 },
   {
     image:"asset/meuble.7.jpg" ,
-    title: " Wonder Walls: Unique Home Masterpieces " ,
-    info: "unique home decor unique home decor ideas unique home decorating ideas unique home decors unique home decoration unique home decorations unique home decorating unique homes decor unique home decor idea unique home accent unique home accents unique home decor pieces unique home ideas unique home accessory unique home accessories unique home designs unique home interiors unique home interior unique home design unique home idea uniques home ideas unique homes ideas unique homes interior unique home
-"  ,
+    title: "Wonder Walls: Unique Home Masterpieces" ,
+    info: "unique home decor unique home decor ideas unique home decorating"  ,
 },
  {
   image:"asset/meuble2.jpg" ,
     title: "My Beautiful Meuble" ,
     info: "The scene and the beautiful landscape will force the creativity to build the meuble to the limit"  ,
-}
+},
 
 
   ]
