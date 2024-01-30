@@ -25,8 +25,8 @@ const products = [
 
   {
  image:"asset/meuble4.jpg" ,
-    title: "Natural Meuble" ,
-    info: "Nice place to do working and relaxing on the same time"  ,
+    title: "fideliohaus — truebluemeandyou: Japanese Table and Chairs in a" ,
+    info: "fideliohaus — truebluemeandyou: Japanese Table and Chairs in a"  ,
   },
    {
     image:"asset/meuble1.jpg" ,
