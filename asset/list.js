@@ -31,7 +31,7 @@ const products = [
     info: "Experience the satisfaction of crafting functional and beautiful pieces using TedsWoodworking's foolproof plans."  ,
 },
  {
-  image:"asset/meuble2.jpg" ,
+  image:"asset/meuble.6.jpg" ,
     title: "Round Dining Table & Chairs for Small Homes" ,
     info: "Not all of us are lucky to have a huge home with enough space for fancy chairs and dining tables. This space saving dining table works for 4 people but"  ,
 },
