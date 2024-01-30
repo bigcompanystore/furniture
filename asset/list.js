@@ -48,7 +48,7 @@ const products = [
     info: "Arditi Collection is one of the exclusive designers and producers"  ,
 },
   {
-  image:"asset/meuble.8.jpg" ,
+  image:"asset/meuble.9.jpg" ,
     title: "Moscow Table" ,
     info: "Glam form an essential function combine to create this must"  ,
 },
