@@ -4,6 +4,9 @@ const products = [
     title: "chairs" ,
     info: "various kinds of chairs"  ,
 },
+
+
+  
   {
     image:"asset/meuble.1.jpg" ,
     title: "Futuristic Meuble" ,
