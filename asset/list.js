@@ -19,8 +19,8 @@ const products = [
 },
   {
  image:"asset/meuble3.jpg" ,
-    title: "Embracing Leisure" ,
-    info: "A place to rest with dominated on natural and beautyfull set up"  ,
+    title: "Buy Teak Wood Sofa Set Online | TeakLab" ,
+    info: "A sofa set is a truly regal piece of furniture for your home. Finely crafted from the best quality teak wood, its fineness is simply out of this world"  ,
   },
 
   {
