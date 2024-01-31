@@ -1,4 +1,9 @@
 const products = [
+   {
+    image:"/" ,
+    title: "/" ,
+    info: "/"  ,
+},
  {
   image:"asset/kulit.2.jpg" ,
     title: "Cowhide wallet, handicraft" ,
