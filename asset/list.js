@@ -63,7 +63,7 @@ const products = [
     info: "Product Details, Stunning armoire built entirely in solid wood"  ,
 },
   {
-  image:"asset/meuble.11.jpg" ,
+  image:"asset/kulit.2.jpg" ,
     title: "Cowhide wallet, handicraft" ,
     info: "Homemade products made from cowhide and manually sewn by hand"  ,
 },
