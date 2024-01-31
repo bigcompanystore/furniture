@@ -1,13 +1,13 @@
 const products = [
-  {
-    image:"asset/meuble..1.jpg" ,
-    title: "chairs" ,
-    info: "various kinds of chairs"  ,
-},
-  {
+ {
   image:"asset/kulit.2.jpg" ,
     title: "Cowhide wallet, handicraft" ,
     info: "Homemade products made from cowhide and manually sewn by hand"  ,
+},
+    {
+    image:"asset/meuble..1.jpg" ,
+    title: "chairs" ,
+    info: "various kinds of chairs"  ,
 },
  {
     image:"asset/meuble.1.jpg" ,
