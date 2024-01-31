@@ -62,6 +62,11 @@ const products = [
     title: "Dumont Armoire - 72\" - Solid Cherry - Teak Finish - Mid Century Modern Inspired" ,
     info: "Product Details, Stunning armoire built entirely in solid wood"  ,
 },
+  {
+  image:"asset/meuble.11.jpg" ,
+    title: "Cowhide wallet, handicraft" ,
+    info: "Homemade products made from cowhide and manually sewn by hand"  ,
+},
 
 
   ]
