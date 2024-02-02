@@ -103,7 +103,7 @@ footer {
 .button {
   background-color: #04AA6D; /* Green */
   border: none;
-  color: white;
+  
   padding: 16px 32px;
   text-align: center;
   text-decoration: none;
@@ -113,7 +113,7 @@ footer {
   transition-duration: 0.4s;
     border-radius: 12px;
   cursor: pointer;
-    color: inherit;
+    
 }
 
 .button5 {
