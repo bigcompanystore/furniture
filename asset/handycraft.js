@@ -1,4 +1,4 @@
-const products = [
+const handycrafts = [
   {
     image:"asset/kulit.5.jpg" ,
     title: "The door handles are covered in leather" ,
