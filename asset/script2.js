@@ -15,7 +15,7 @@ function renderProducts() {
        <h3>${product.title}</h3>
             <p>${product.info}</p>
       </div>
-          <button type="button" class="btn btn-info"><a href="${product.link}"><b>Show</b></a>
+          <button type="button" class="btn tombol"><a href="${product.link}"><b>Show</b></a>
 </button> 
 
           
@@ -46,7 +46,7 @@ function renderHandycraft() {
        <h3>${handycraft.title}</h3>
             <p>${handycraft.info}</p>
       </div>
-          <button type="button" class="btn btn-info"><a href="${handycraft.link}"><b>Show</b></a>
+          <button type="button" class="btn tombol"><a href="${handycraft.link}"><b>Show</b></a>
 </button> 
 
           
