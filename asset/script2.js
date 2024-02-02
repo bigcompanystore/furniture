@@ -1,6 +1,6 @@
 const productsEl = document.querySelector(".products");
 
-productShow = products.slice(0, 6);
+productShow = products.slice(0, 8);
 
 function renderProducts() {
     
@@ -31,7 +31,7 @@ renderProducts();
 
 const handycraftEl = document.querySelector(".handycrafts");
 
-handycraftShow = handycrafts.slice(0, 6);
+handycraftShow = handycrafts.slice(0, 8);
 
 function renderHandycraft() {
     
