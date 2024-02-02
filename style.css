@@ -129,7 +129,9 @@ footer {
 }
 
 .tombol {
-  background-color: #af7b63;
-  color: black;
+  background-color: lightblue;  
+color: black;  
+font-size: 25px;  
+margin: auto;  
       
 }
