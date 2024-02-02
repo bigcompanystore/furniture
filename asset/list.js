@@ -1,34 +1,5 @@
 const products = [
-  {
-    image:"asset/kulit.5.jpg" ,
-    title: "The door handles are covered in leather" ,
-    info: "Homemade products made from cowhide and manually sewn by hand"  ,
-},   
-  {
-    image:"asset/kulit.4.jpg" ,
-    title: "leather name tag" ,
-    info: "Homemade products made from cowhide and manually sewn by hand"  ,
-},
- {
-  image:"asset/kulit.2.jpg" ,
-    title: "Cowhide wallet, handicraft" ,
-    info: "Homemade products made from cowhide and manually sewn by hand"  ,
-},
-    {
-    image:"asset/meuble..1.jpg" ,
-    title: "chairs" ,
-    info: "various kinds of chairs"  ,
-},
- {
-    image:"asset/meuble.1.jpg" ,
-    title: "Futuristic Meuble" ,
-    info: "My Meuble with artistic theme build with heart and full of functionality"  ,
-},
- {
-  image:"asset/meuble.2.jpg" ,
-    title: "My Beautiful Meuble" ,
-    info: "The scene and the beautiful landscape will force the creativity to build the meuble to the limit"  ,
-},
+ 
   {
  image:"asset/meuble.3.jpg" ,
     title: "Buy Teak Wood Sofa Set Online | TeakLab" ,
@@ -74,7 +45,36 @@ const products = [
     title: "Dumont Armoire - 72\" - Solid Cherry - Teak Finish - Mid Century Modern Inspired" ,
     info: "Product Details, Stunning armoire built entirely in solid wood"  ,
 },
-
+ {
+    image:"asset/kulit.5.jpg" ,
+    title: "The door handles are covered in leather" ,
+    info: "Homemade products made from cowhide and manually sewn by hand"  ,
+},   
+  {
+    image:"asset/kulit.4.jpg" ,
+    title: "leather name tag" ,
+    info: "Homemade products made from cowhide and manually sewn by hand"  ,
+},
+ {
+  image:"asset/kulit.2.jpg" ,
+    title: "Cowhide wallet, handicraft" ,
+    info: "Homemade products made from cowhide and manually sewn by hand"  ,
+},
+    {
+    image:"asset/meuble..1.jpg" ,
+    title: "chairs" ,
+    info: "various kinds of chairs"  ,
+},
+ {
+    image:"asset/meuble.1.jpg" ,
+    title: "Futuristic Meuble" ,
+    info: "My Meuble with artistic theme build with heart and full of functionality"  ,
+},
+ {
+  image:"asset/meuble.2.jpg" ,
+    title: "My Beautiful Meuble" ,
+    info: "The scene and the beautiful landscape will force the creativity to build the meuble to the limit"  ,
+},
 
 
   ]
