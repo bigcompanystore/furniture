@@ -132,7 +132,7 @@ footer {
  
 display: -webkit-flex;      
 display: flex;  
-flex-direction: 
+  flex-direction: column;  
 }  
 
 .container {  
