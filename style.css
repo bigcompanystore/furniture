@@ -9,7 +9,7 @@ body {
 
 a, a:hover, a:focus, a:active {
       text-decoration: none;
-      color: white;
+      color: #af7b63;
  }
 
 header {
@@ -138,7 +138,7 @@ display: flex;
 .container {  
  width: 100%;
     margin: 20px;
-    background-color: #af7b63;  
+      
 display: flex;  
 justify-content: center;  
 align-items: center;  
