@@ -144,7 +144,15 @@ align-items: center;
 }  
 
 
-.tombol b{
+.tombol {
+   background-color: #af7b63;
+    color: white; 
+font-size: 25px;  
+
+  
+}
+
+b{
    background-color: #af7b63;
     color: white; 
 font-size: 25px;  
