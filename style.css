@@ -145,7 +145,7 @@ align-items: center;
 
 
 .tombol {
-   background-color: #af7b63;
+  border: none;
     color: white; 
 font-size: 25px;  
 
