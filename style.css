@@ -128,6 +128,13 @@ footer {
     color: inherit;
 }
 
+.colom {  
+ 
+display: -webkit-flex;      
+display: flex;  
+flex-direction: 
+}  
+
 .container {  
  width: 100%;
      
