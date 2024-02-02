@@ -27,7 +27,7 @@ function renderProducts() {
     
   
 }
-renderHandycrafts();
+renderProducts();
 
 const handycraftEl = document.querySelector(".handycrafts");
 
