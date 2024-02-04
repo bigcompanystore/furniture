@@ -46,21 +46,6 @@ const products = [
     info: "Product Details, Stunning armoire built entirely in solid wood"  ,
 },
  {
-    image:"asset/kulit.5.jpg" ,
-    title: "The door handles are covered in leather" ,
-    info: "Homemade products made from cowhide and manually sewn by hand"  ,
-},   
-  {
-    image:"asset/kulit.4.jpg" ,
-    title: "leather name tag" ,
-    info: "Homemade products made from cowhide and manually sewn by hand"  ,
-},
- {
-  image:"asset/kulit.2.jpg" ,
-    title: "Cowhide wallet, handicraft" ,
-    info: "Homemade products made from cowhide and manually sewn by hand"  ,
-},
-    {
     image:"asset/meuble..1.jpg" ,
     title: "chairs" ,
     info: "various kinds of chairs"  ,
