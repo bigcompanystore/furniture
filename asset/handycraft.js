@@ -5,8 +5,8 @@ const handycrafts = [
     info: "Homemade products made from cowhide and manually sewn by hand"  ,
 },
   {
-    image:"asset/kulit.17.jpg" ,
-    title: "card holder" ,
+    image:"asset/kulit.18.jpg" ,
+    title: "leather girls bag" ,
     info: "Homemade products made from cowhide and manually sewn by hand"  ,
 },
   {
