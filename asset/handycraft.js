@@ -1,7 +1,7 @@
 const handycrafts = [
  {
-    image:"asset/kulit.21.jpg" ,
-    title: "leather knife case" ,
+    image:"asset/kulit.22.jpg" ,
+    title: "leather belt" ,
     info: "Homemade products made from cowhide and manually sewn by hand"  ,
 },
  {
