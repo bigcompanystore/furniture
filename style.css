@@ -29,6 +29,7 @@ a {
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 20px;
+   
 }
 
 /*.item {
@@ -185,6 +186,7 @@ a {
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 10px;
+    font-size: 15px; 
 }
 
 /*.item {
@@ -216,7 +218,7 @@ a {
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     width: 150px;
-    height: 200px;
+    height: 300px;
     animation: tumbleIn 1.5s ease-in-out both;
     flex-direction: column;
     justify-content: center;
