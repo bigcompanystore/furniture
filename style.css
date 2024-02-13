@@ -160,3 +160,161 @@ margin: 0;
     padding: 20px;  
      border-radius: 20px;
 }
+
+
+@media only screen and (max-width: 600px) {
+ a, a:hover, a:focus, a:active {
+      text-decoration: none;
+
+    border-radius: 20px;
+
+ }
+
+header {
+    background-color: #af7b63;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+a {
+  text-decoration: none;
+}
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+/*.item {
+    text-align: center;
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 150px;
+}*/
+
+@keyframes tumbleIn {
+    0% {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.item {
+    text-align: center;
+    background-color: #fff;
+    padding: 10px;
+    margin: 8px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 150px;
+    height: 200px;
+    animation: tumbleIn 1.5s ease-in-out both;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.item img {
+    max-width: 100px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+    flex: 3;
+}
+
+.item img:hover {
+    transform: scale(1.09);
+    transition: transform 0.3s ease-in-out;
+}
+
+.sub-item {
+
+    width: 100%;
+    height: 40%;
+    flex-wrap: wrap;
+    display: block;
+    flex: 3;
+    padding-top: 5px;
+}
+
+
+
+footer {
+    text-align: center;
+    background-color: #af7b63;
+    color: white;
+    padding: 10px;
+    margin: 0;
+   }
+
+
+
+/*.button {
+  background-color: #04AA6D;  Green
+  border: none;
+    text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ 
+  transition-duration: 0.4s;
+    border-radius: 12px;
+  cursor: pointer;    
+}*/
+
+.button5 {
+  background-color: #af7b63;
+  color: white;
+      color: inherit;
+}
+
+.button5:hover {
+  background-color: #7c4830;
+  color: white;
+    color: inherit;
+}
+
+.colom {  
+
+display: -webkit-flex;      
+display: flex;  
+  flex-direction: row;  
+}  
+
+.container {  
+ width: 100%;
+    margin: 10px;
+
+display: flex;  
+justify-content: center;  
+align-items: center;  
+}  
+
+
+.tombol {
+  border: none;
+    color: white; 
+font-size: 15px;  
+
+
+}
+
+b{
+   background-color: #af7b63;
+    color: white; 
+font-size: 15px;  
+margin: 0;
+    padding: 10px;  
+     border-radius: 10px;
+}
+
+}
