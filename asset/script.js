@@ -8,7 +8,7 @@ function renderProducts() {
       `
            
                    <article class="item">
-            <img id="myImg" src="${product.image}" alt="meuble">
+            <img id="myImg" src="${product.image}" alt="Snow">
 
             
             <!-- The Modal -->
