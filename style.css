@@ -75,7 +75,7 @@ article { display: flex; }
     max-height: 200px;
     width: auto;
     height: auto;
-    flex: 2;
+    flex: 1;
 }
 
 .item img:hover {
