@@ -14,7 +14,7 @@ function renderProducts() {
             <p>"${product.info}"</p>
       </div>
             
-       <button type="button" class="btn tombol2"><a href=""${product.link}"">Show</a>
+       <button type="button" class="btn btn-info"><a href=""${product.link}"">Show</a>
 </button>     
 </article>
         `
