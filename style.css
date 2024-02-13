@@ -24,6 +24,8 @@ header {
 a {
   text-decoration: none;
 }
+
+article { display: flex; }
 .menu {
     display: flex;
     flex-wrap: wrap;
