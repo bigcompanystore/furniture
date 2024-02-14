@@ -499,8 +499,8 @@ margin: 0;
   transition: 0.3s;
 }
 
-.close:hover,
-.close:focus {
+.close2:hover,
+.close2:focus {
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
