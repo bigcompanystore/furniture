@@ -10,7 +10,7 @@ function renderProducts() {
       `
            
                    <article class="item">
-            <img id="${product.ide}"  src="${product.image}" alt="meuble">
+            <img  src="${product.image}" alt="meuble">
 
  
 
@@ -22,7 +22,7 @@ function renderProducts() {
        <h3>${product.title}</h3>
             <p>${product.info}</p>
       </div>
-          <button type="button" class="btn tombol2"><a href="${product.link}">Show</a>
+          <button id="${product.ide}"  type="button" class="btn tombol2"><a href="${product.link}">Show</a>
 </button> 
 
           
