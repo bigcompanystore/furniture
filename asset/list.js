@@ -7,7 +7,7 @@ const products = [
    ide: "myImg",
    spot: "img01",
    close: "close",
-   modal: "myModal"
+   modal: "myModal",
   },
   {
  image:"asset/meuble.4.jpg" ,
@@ -15,7 +15,7 @@ const products = [
     info: "fideliohaus — truebluemeandyou: Japanese Table and Chairs in a"  ,
    ide: "myImg2",
    spot: "img012",
-   modal: "myModal2"
+   modal: "myModal2",
   },
    {
     image:"asset/meuble.5.jpg" ,
