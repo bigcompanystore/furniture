@@ -83,7 +83,7 @@ var modalImg = document.getElementById("img01");
 var captionText = document.getElementById("caption");
 img.onclick = function(){
   modal.style.display = "block";
-  modalImg.src = "meuble.3.jpg" ;
+  modalImg.src = "asset/meuble.3.jpg" ;
   captionText.innerHTML = "Teak Wood Sofa";
 }
 
