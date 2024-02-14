@@ -10,7 +10,7 @@ function renderProducts() {
       `
            
                    <article class="item">
-            <img id="myImg"  src="${product.image}" alt="meuble">
+            <img id="${product.ide}"  src="${product.image}" alt="meuble">
 
  
 
