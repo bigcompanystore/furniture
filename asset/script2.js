@@ -52,7 +52,7 @@ function renderGambar() {
    gambarEl.innerHTML += 
       `
            
-                   <div id="myModal" class="modal">
+                   <div id="${product.modal}" class="modal">
   <span class="${product.close}">&times;</span>
   <img class="modal-content" id="${product.spot}">
   <div id="caption"></div>
