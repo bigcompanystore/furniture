@@ -22,7 +22,7 @@ function renderProducts() {
        <h3>${product.title}</h3>
             <p>${product.info}</p>
       </div>
-          <button id="${product.ide}"  type="button" class="btn tombol2"><a href="${product.image}">Show</a>
+          <button id="${product.ide}"  type="button" class="btn tombol2"><src="${product.image}">Show</a>
 </button> 
 
           
