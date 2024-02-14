@@ -8,6 +8,7 @@ const products = [
    spot: "img01",
    close: "close",
    modal: "myModal",
+   caption: "Teakwood Sofa",
   },
   {
  image:"asset/meuble.4.jpg" ,
@@ -17,6 +18,7 @@ const products = [
    spot: "img012",
    close: "close2",
    modal: "myModal2",
+   caption: "Japanese Table & Chair",
   },
    {
     image:"asset/meuble.5.jpg" ,
