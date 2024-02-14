@@ -53,7 +53,7 @@ function renderGambar() {
       `
            
                    <div id="myModal" class="modal">
-  <span class="close">&times;</span>
+  <span class="${product.close}">&times;</span>
   <img class="modal-content" id="${product.spot}">
   <div id="caption"></div>
 </div>
@@ -118,7 +118,7 @@ img.onclick = function(){
 }
 
 // Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
+var span = document.getElementsByClassName("close1")[0];
 
 // When the user clicks on <span> (x), close the modal
 span.onclick = function() { 
