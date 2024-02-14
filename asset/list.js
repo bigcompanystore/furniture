@@ -37,7 +37,7 @@ const products = [
  ide: "myImg4",
     spot: "img014",
    close: "close4",
-   modal: "myModal4",
+   modal: myModal4,
    caption: "TedsWoodWorking",
 },
   {
