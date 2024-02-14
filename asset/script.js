@@ -8,13 +8,19 @@ function renderProducts() {
       `
            
                    <article class="item">
-            <img src="${product.image}" alt="meuble">
+            <img src="${product.image}" alt="Snow">
+
+            
+          
+
+
+            
       <div class="sub-item">
        <h3>"${product.title}"</h3>
             <p>"${product.info}"</p>
       </div>
             
-       <button type="button" class="btn tombol2"><a href=""${product.link}"">Show</a>
+       <button type="button" class="btn btn-info"><a href=""${product.link}"">Show</a>
 </button>     
 </article>
         `
@@ -24,3 +30,4 @@ function renderProducts() {
   
 }
 renderProducts();
+

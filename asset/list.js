@@ -4,21 +4,25 @@ const products = [
  image:"asset/meuble.3.jpg" ,
     title: "Buy Teak Wood Sofa Set Online | TeakLab" ,
     info: "A sofa set is a truly regal piece of furniture for your home. Finely crafted from the best quality teak wood, its fineness is simply out of this world"  ,
+   ide: "myImg",
   },
   {
  image:"asset/meuble.4.jpg" ,
     title: "fideliohaus — truebluemeandyou: Japanese Table and Chairs in a" ,
     info: "fideliohaus — truebluemeandyou: Japanese Table and Chairs in a"  ,
+   ide: "myImg2",
   },
    {
     image:"asset/meuble.5.jpg" ,
     title: "Crafting Dreams from Timber: Unlock 16,000 Plans" ,
     info: "Experience the satisfaction of crafting functional and beautiful pieces using TedsWoodworking's foolproof plans."  ,
+    ide: "myImg3",
 },
  {
   image:"asset/meuble.6.jpg" ,
     title: "Round Dining Table & Chairs for Small Homes" ,
     info: "Not all of us are lucky to have a huge home with enough space for fancy chairs and dining tables. This space saving dining table works for 4 people but"  ,
+  ide: "myImg4",
 },
   {
     image:"asset/meuble.7.jpg" ,
