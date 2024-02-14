@@ -26,7 +26,7 @@ const products = [
     info: "Experience the satisfaction of crafting functional and beautiful pieces using TedsWoodworking's foolproof plans."  ,
     ide: "myImg3",
     spot: "img013",
-   close: "close",
+   close: "close3",
    modal: "myModal3",
    caption: "TedsWoodWorking",
 },
