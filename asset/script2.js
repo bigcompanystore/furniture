@@ -100,8 +100,8 @@ var modalImg2 = document.getElementById("img012");
 var captionText2 = document.getElementById("caption2");
 img2.onclick = function(){
   modal2.style.display = "block";
-  modalImg2.src = '"${product.image}"';
-  captionText2.innerHTML = this.alt;
+  modalImg2.src = "asset/meuble.3.jpg";
+  captionText2.innerHTML = "kursi";
 }
 
 // Get the <span> element that closes the modal
