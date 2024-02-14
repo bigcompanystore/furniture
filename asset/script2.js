@@ -114,7 +114,7 @@ var captionText = document.getElementById("caption");
 img.onclick = function(){
   modal.style.display = "block";
 //  modalImg.src = "${product.image}" ;
-  captionText.innerHTML = "Teak Wood Sofa";
+//  captionText.innerHTML = "Teak Wood Sofa";
 }
 
 // Get the <span> element that closes the modal
@@ -138,7 +138,7 @@ var captionText2 = document.getElementById("caption2");
 img2.onclick = function(){
   modal2.style.display = "block";
 //  modalImg2.src = "asset/meuble.4.jpg";
-  captionText2.innerHTML = "Japanese Table and Chairs";
+//  captionText2.innerHTML = "Japanese Table and Chairs";
 }
 
 // Get the <span> element that closes the modal
