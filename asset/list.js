@@ -35,7 +35,7 @@ const products = [
     title: "Round Dining Table & Chairs for Small Homes" ,
     info: "Not all of us are lucky to have a huge home with enough space for fancy chairs and dining tables. This space saving dining table works for 4 people but"  ,
   ide: "myImg4",
-   
+   spot: "img014",
    close: "close4",
    modal: "myModal4",
    caption: "Dining Table",
