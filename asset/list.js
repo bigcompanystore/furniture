@@ -6,7 +6,7 @@ const products = [
     info: "A sofa set is a truly regal piece of furniture for your home. Finely crafted from the best quality teak wood, its fineness is simply out of this world"  ,
    ide: "myImg",
    spot: "img01",
-   close: "close1",
+   close: "close",
   },
   {
  image:"asset/meuble.4.jpg" ,
