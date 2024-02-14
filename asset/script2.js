@@ -110,10 +110,10 @@ img2.onclick = function(){
   captionText2.innerHTML = "Japanese Table and Chairs";
 }
 
- Get the <span> element that closes the modal
+// Get the <span> element that closes the modal
 var span2 = document.getElementsByClassName("close2")[0];
 
- When the user clicks on <span> (x), close the modal
+// When the user clicks on <span> (x), close the modal
 span2.onclick = function() { 
   modal2.style.display = "none";
 }
