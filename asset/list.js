@@ -25,6 +25,10 @@ const products = [
     title: "Crafting Dreams from Timber: Unlock 16,000 Plans" ,
     info: "Experience the satisfaction of crafting functional and beautiful pieces using TedsWoodworking's foolproof plans."  ,
     ide: "myImg3",
+    spot: "img013",
+   close: "close3",
+   modal: "myModal3",
+   caption: "TedsWoodWorking",
 },
  {
   image:"asset/meuble.6.jpg" ,
