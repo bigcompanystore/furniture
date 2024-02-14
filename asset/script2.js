@@ -22,7 +22,7 @@ function renderProducts() {
        <h3>${product.title}</h3>
             <p>${product.info}</p>
       </div>
-          <button id="${product.ide}" type="button" class="btn tombol2" alt="meuble">Show</a>
+          <button id="${product.ide}" type="button" class="btn tombol2" alt="meuble" src:"${product.image}" alt="meuble">Show</a>
 </button> 
 
           
@@ -77,7 +77,7 @@ var modalImg = document.getElementById("img01");
 var captionText = document.getElementById("caption");
 img.onclick = function(){
   modal.style.display = "block";
-  modalImg.src = "${product.image}";
+  modalImg.src = this.src ;
   captionText.innerHTML = this.alt;
 }
 
