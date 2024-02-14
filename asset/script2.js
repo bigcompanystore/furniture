@@ -42,6 +42,56 @@ function renderProducts() {
 }
 renderProducts();
 
+
+
+
+function renderGambar() {
+    
+  productShow.forEach((product) => {
+    
+   gambarEl.innerHTML += 
+      `
+           
+                   <div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="${product.spot}">
+  <div id="caption"></div>
+</div>
+        `
+      
+      ;
+
+
+
+      
+  });
+
+    // Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = document.getElementById(${product.ide});
+var modalImg = document.getElementById(${product.spot});
+var captionText = document.getElementById("caption");
+img.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = ${product.image} ;
+  captionText.innerHTML = "Teak Wood Sofa";
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() { 
+  modal.style.display = "none";
+}
+    
+  
+}
+renderGambar();
+
+
 const handycraftEl = document.querySelector(".handycrafts");
 
 handycraftShow = handycrafts.slice(0, 8);
@@ -74,26 +124,7 @@ function renderHandycraft() {
 renderHandycraft();
 
 
-// Get the modal
-var modal = document.getElementById("myModal");
 
-// Get the image and insert it inside the modal - use its "alt" text as a caption
-var img = document.getElementById("myImg");
-var modalImg = document.getElementById("img01");
-var captionText = document.getElementById("caption");
-img.onclick = function(){
-  modal.style.display = "block";
-  modalImg.src = "asset/meuble.3.jpg" ;
-  captionText.innerHTML = "Teak Wood Sofa";
-}
-
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() { 
-  modal.style.display = "none";
-}
 
 
 
