@@ -4,7 +4,7 @@ const products = [
  image:"asset/meuble.3.jpg" ,
     title: "Buy Teak Wood Sofa Set Online | TeakLab" ,
     info: "A sofa set is a truly regal piece of furniture for your home. Finely crafted from the best quality teak wood, its fineness is simply out of this world"  ,
-   ide: myImg,
+   ide: "myImg",
   },
   {
  image:"asset/meuble.4.jpg" ,
