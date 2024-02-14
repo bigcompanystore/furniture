@@ -12,6 +12,7 @@ const products = [
     title: "fideliohaus — truebluemeandyou: Japanese Table and Chairs in a" ,
     info: "fideliohaus — truebluemeandyou: Japanese Table and Chairs in a"  ,
    ide: "myImg2",
+   spot: "img012",
   },
    {
     image:"asset/meuble.5.jpg" ,
