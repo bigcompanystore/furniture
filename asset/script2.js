@@ -1,6 +1,7 @@
 const productsEl = document.querySelector(".products");
 
 const gambarEl = document.querySelector(".gambar");
+const kulitEl = document.querySelector(".kulits");
 
 productShow = products.slice(0, 8);
 
