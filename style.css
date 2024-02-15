@@ -365,7 +365,7 @@ margin: 0;
   height: 100%; /* Full height */
   overflow: auto; /* Enable scroll if needed */
   background-color: #af7b63; /* coklat */
-  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+  background-color: #af7b63; /* rgba(0,0,0,0.9); Black w/ opacity */
 }
 
 /* Modal Content (image) */
