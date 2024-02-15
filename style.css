@@ -439,6 +439,10 @@ harusnya modal 2 disini
 
 
 
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+}
 
 
 
