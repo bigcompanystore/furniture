@@ -531,4 +531,40 @@ margin: 0;
 
 
 
+/* The Close Button */
+.close12 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close12:hover,
+.close12:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+/* The Close Button */
+.close13 {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close13:hover,
+.close13:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
 
