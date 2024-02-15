@@ -438,17 +438,7 @@ harusnya modal 2 disini
 
 
 
-/* Caption of Modal Image */
-#caption2 {
-  margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
-  text-align: center;
-  color: #ccc;
-  padding: 10px 0;
-  height: 150px;
-}
+
 
 /* Add Animation */
 .modal-content, #caption {  
