@@ -486,7 +486,7 @@ harusnya modal 2 disini
 }
 
 /* The Close Button */
-.close5 {
+.close5 .tutup{
   position: absolute;
   top: 15px;
   right: 35px;
@@ -498,6 +498,13 @@ harusnya modal 2 disini
 
 .close5:hover,
 .close5:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.tutup:hover,
+.tutup:focus {
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
