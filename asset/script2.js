@@ -73,6 +73,9 @@ function renderGambar() {
 renderGambar();
 
 
+
+
+
 const handycraftEl = document.querySelector(".handycrafts");
 
 handycraftShow = handycrafts.slice(0, 8);
@@ -103,6 +106,36 @@ function renderHandycraft() {
   
 }
 renderHandycraft();
+
+
+
+function renderKulit() {
+    
+  handycraftShow.forEach((handycraft) => {
+    
+   kulitEl.innerHTML += 
+      `
+           
+                   <div id="${handycraft.modal}" class="modal">
+  <span class="${handycraft.close}">&times;</span>
+  <img class="modal-content" id="${handycraft.spot}" src="${handycraft.image}">
+  <div id="caption">${handycraft.caption}</div>
+</div>
+        `
+      
+      ;
+
+
+
+      
+  });
+
+
+    
+  
+}
+renderKulit();
+
 
     // Get the modal
 var modal = document.getElementById("myModal");
