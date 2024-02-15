@@ -94,7 +94,7 @@ function renderHandycraft() {
        <h3>${handycraft.title}</h3>
             <p>${handycraft.info}</p>
       </div>
-          <button type="button" class="btn tombol2"><a href="${handycraft.link}">Show</a>
+          <button id="${handycraft.ide}" type="button" class="btn tombol2" alt="handycraft"> Show
 </button> 
 
           
