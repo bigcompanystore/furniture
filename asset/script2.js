@@ -53,7 +53,7 @@ function renderGambar() {
       `
            
                    <div id="${product.modal}" class="modal">
-  <span class="${product.close} tutup">&times;</span>
+  <span class="${product.close}">&times;</span>
   <img class="modal-content" id="${product.spot}" src="${product.image}">
   <div id="caption">${product.caption}</div>
 </div>
