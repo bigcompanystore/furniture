@@ -292,3 +292,27 @@ var span8 = document.getElementsByClassName("close8")[0];
 span8.onclick = function() { 
   modal8.style.display = "none";
 }
+
+
+
+
+
+// Get the modal 2b
+var modal2b = document.getElementById("myModal2b");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img2b = document.getElementById("myImg2b");
+
+img2b.onclick = function(){
+  modal2b.style.display = "block";
+
+}
+
+// Get the <span> element that closes the modal
+var span2b = document.getElementsByClassName("close2b")[0];
+
+// When the user clicks on <span> (x), close the modal
+span2b.onclick = function() { 
+  modal2b.style.display = "none";
+}
+
