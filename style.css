@@ -435,20 +435,20 @@ margin: 0;
 harusnya modal 2 disini
 /* The Close Button */
 .close2 {
-  position: absolute;
-  top: 15px;
-  right: 35px;
-  color: #f1f1f1;
-  font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
+  position: absolute;!important
+  top: 15px;!important
+  right: 35px;!important
+  color: #f1f1f1;!important
+  font-size: 40px;!important
+  font-weight: bold;!important
+  transition: 0.3s;!important
 }
 
 .close2:hover,
 .close2:focus {
-  color: #bbb;
-  text-decoration: none;
-  cursor: pointer;
+  color: #bbb;!important
+  text-decoration: none;!important
+  cursor: pointer;!important
 }
 
 /* 100% Image Width on Smaller Screens */
@@ -471,20 +471,20 @@ harusnya modal 2 disini
 
 /* The Close Button */
 .close3 {
-  position: absolute;
-  top: 15px;
-  right: 35px;
-  color: #f1f1f1;
-  font-size: 40px;
-  font-weight: bold;
-  transition: 0.3s;
+  position: absolute;!important
+  top: 15px;!important
+  right: 35px;!important
+  color: #f1f1f1;!important
+  font-size: 40px;!important
+  font-weight: bold;!important
+  transition: 0.3s;!important
 }
 
 .close3:hover,
 .close3:focus {
-  color: #bbb;
-  text-decoration: none;
-  cursor: pointer;
+  color: #bbb;!important
+  text-decoration: none;!important
+  cursor: pointer;!important
 }
 
 /* The Close Button */
