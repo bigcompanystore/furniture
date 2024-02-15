@@ -435,17 +435,7 @@ margin: 0;
 harusnya modal 2 disini
 
 
-@-webkit-keyframes zoom {
-  from {-webkit-transform:scale(0)} 
-  to {-webkit-transform:scale(1)}
-}
 
-
-
-@keyframes zoom {
-  from {transform:scale(0)} 
-  to {transform:scale(1)}
-}
 
 
 
@@ -496,7 +486,7 @@ harusnya modal 2 disini
 }
 
 /* The Close Button */
-.close4 {
+.close5 {
   position: absolute;
   top: 15px;
   right: 35px;
@@ -506,8 +496,8 @@ harusnya modal 2 disini
   transition: 0.3s;
 }
 
-.close4:hover,
-.close4:focus {
+.close5:hover,
+.close5:focus {
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
