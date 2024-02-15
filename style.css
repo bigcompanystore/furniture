@@ -437,13 +437,6 @@ harusnya modal 2 disini
 
 
 
-/* Modal Content (image) */
-.modal-content {
-  margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
-}
 
 /* Caption of Modal Image */
 #caption2 {
