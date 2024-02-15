@@ -140,7 +140,7 @@ img2.onclick = function(){
 }
 
 // Get the <span> element that closes the modal
-var span2 = document.getElementsByClassName("close2")[0];
+var span2 = document.getElementsByClassName("close12")[0];
 
 // When the user clicks on <span> (x), close the modal
 span2.onclick = function() { 
@@ -159,7 +159,7 @@ img3.onclick = function(){
 }
 
 // Get the <span> element that closes the modal
-var span3 = document.getElementsByClassName("close3")[0];
+var span3 = document.getElementsByClassName("close13")[0];
 
 // When the user clicks on <span> (x), close the modal
 span3.onclick = function() { 
