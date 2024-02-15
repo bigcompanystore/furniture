@@ -30,16 +30,7 @@ const products = [
    modal: "myModal3",
    caption: "TedsWoodWorking",
 },
- {
-  image:"asset/meuble.6.jpg" ,
-    title: "Round Dining Table & Chairs for Small Homes" ,
-    info: "Not all of us are lucky to have a huge home with enough space for fancy chairs and dining tables. This space saving dining table works for 4 people but"  ,
- ide: "myImg4",
-   spot: "img014",
-   close: "close4",
-   modal: "myModal4",
-   caption: "Japanese Table & Chair",
-},
+
   {
     image:"asset/meuble.7.jpg" ,
     title: "Wonder Walls: Unique Home Masterpieces" ,
@@ -77,6 +68,16 @@ const products = [
    close: "close8",
    modal: "myModal8",
    caption: "Iconic Collection",
+},
+  {
+  image:"asset/meuble.6.jpg" ,
+    title: "Round Dining Table & Chairs for Small Homes" ,
+    info: "Not all of us are lucky to have a huge home with enough space for fancy chairs and dining tables. This space saving dining table works for 4 people but"  ,
+ ide: "myImg4",
+   spot: "img014",
+   close: "close4",
+   modal: "myModal4",
+   caption: "Japanese Table & Chair",
 },
   {
   image:"asset/meuble.11.jpg" ,
