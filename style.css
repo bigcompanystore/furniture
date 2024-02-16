@@ -358,7 +358,7 @@ margin: 0;
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 1; /* Sit on top */
-  padding-top: 100px; /* Location of the box */
+  padding-top: 50px; /* Location of the box */
   left: 0;
   top: 0;
   width: 100%; /* Full width */
@@ -372,8 +372,9 @@ margin: 0;
 .modal-content {
   margin: auto;
   display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 100%;
+  max-width: 400px;
+    max-height: 600px;
 }
 
 /* Caption of Modal Image */
@@ -568,3 +569,30 @@ margin: 0;
   cursor: pointer;
 }
 
+/* Batas Furniture dan handycraft */
+
+
+/* The Close Button */
+.close3b, .close2b, .close11b, .close8b, .close7b, .close6b, .close5b, .closeb {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close3b:hover,
+.close3b:focus, .close2b:hover,
+.close2b:focus, .closeb:hover,
+.closeb:focus, .close11b:hover,
+.close11b:focus, .close8b:hover,
+.close8b:focus, .close7b:hover,
+.close7b:focus, .close6b:hover,
+.close6b:focus, .close5b:hover,
+.close5b:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
