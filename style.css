@@ -363,7 +363,7 @@ margin: 0;
   top: 0;
   width: 100%; /* Full width */
   height: 100%; /* Full height */
-  overflow: visible; /* Enable scroll if needed */
+  overflow: auto; /* Enable scroll if needed */
   background-color: #af7b63; /* coklat */
   background-color: #af7b63; /* rgba(0,0,0,0.9); Black w/ opacity */
 }
