@@ -583,7 +583,8 @@ margin: 0;
 }
 
 .close3b:hover,
-.close3b:focus {
+.close3b:focus, .close2b:hover,
+.close2b:focus {
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
