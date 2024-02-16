@@ -582,8 +582,7 @@ margin: 0;
   transition: 0.3s;
 }
 
-.close3b:hover,  .close3b:focus, .close2b:hover, .close2b:focus, .close11b:hover, .close11b:focus, 
-.close8b:hover, .close8b:focus, .close7b:hover, .close7b:focus, .close6b:hover, .close6b:focus, .close5b:hover, .close5b:focus, .closeb:hover, .closeb:focus,{
+.close3b:hover,  .close3b:focus, .close2b:hover, .close2b:focus, .close11b:hover, .close11b:focus, .close8b:hover, .close8b:focus, .close7b:hover, .close7b:focus, .close6b:hover, .close6b:focus, .close5b:hover, .close5b:focus, .closeb:hover, .closeb:focus,{
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
