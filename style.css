@@ -568,3 +568,23 @@ margin: 0;
   cursor: pointer;
 }
 
+/* Batas Furniture dan handycraft */
+
+
+/* The Close Button */
+.close3b .close2b .close11b .close8b .close7b .close6b .close5b {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #f1f1f1;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close3b:hover,
+.close3b:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
