@@ -552,7 +552,7 @@ margin: 0;
 
 
 /* The Close Button */
-.close3 {
+.close3, .close9, .close10, .close12, .close13 {
   position: absolute;
   top: 15px;
   right: 35px;
@@ -563,7 +563,16 @@ margin: 0;
 }
 
 .close3:hover,
-.close3:focus {
+.close3:focus,
+.close9:hover,
+.close9:focus,
+.close10:hover,
+.close10:focus,
+.close12:hover,
+.close12:focus,
+.close13:hover,
+.close13:focus
+{
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
@@ -573,7 +582,8 @@ margin: 0;
 
 
 /* The Close Button */
-.close3b, .close2b, .close11b, .close8b, .close7b, .close6b, .close5b, .closeb {
+.close3b, .close2b, .close11b, .close8b, .close7b, .close6b, .close5b, .closeb, .close12b, .close13b, .close14b, .close15b, .close16b, .close17b, .close18b, .close19b, .close20b,
+.close21b, .close22b, .close23b, .close24b, .close25b{
   position: absolute;
   top: 15px;
   right: 35px;
@@ -591,7 +601,25 @@ margin: 0;
 .close8b:focus, .close7b:hover,
 .close7b:focus, .close6b:hover,
 .close6b:focus, .close5b:hover,
-.close5b:focus {
+.close5b:focus,
+.close13b:hover,
+.close13b:focus, .close12b:hover,
+.close12b:focus, .close14b:hover,
+.close14b:focus, .close15b:hover,
+.close15b:focus, .close16b:hover,
+.close16b:focus, .close17b:hover,
+.close17b:focus, .close18b:hover,
+.close18b:focus, .close19b:hover,
+.close19b:focus,
+.close20b:hover,
+.close20b:focus, .close21b:hover,
+.close21b:focus,
+.close23b:hover,
+.close23b:focus, .close22b:hover,
+.close22b:focus, .close24b:hover,
+.close24b:focus, .close25b:hover,
+.close25b:focus
+{
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
