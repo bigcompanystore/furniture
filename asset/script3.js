@@ -448,3 +448,22 @@ var span24b = document.getElementsByClassName("close24b")[0];
 span24b.onclick = function() { 
   modal24b.style.display = "none";
 }
+
+
+// Get the modal 25b
+var modal25b = document.getElementById("myModal25b");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img25b = document.getElementById("myImg25b");
+
+img25b.onclick = function(){
+  modal25b.style.display = "block";
+}
+
+// Get the <span> element that closes the modal
+var span25b = document.getElementsByClassName("close25b")[0];
+
+// When the user clicks on <span> (x), close the modal
+span25b.onclick = function() { 
+  modal25b.style.display = "none";
+}
