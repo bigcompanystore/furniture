@@ -93,7 +93,7 @@ const products = [
     image:"asset/meuble.1.jpg" ,
     title: "Futuristic Meuble" ,
     info: "My Meuble with artistic theme build with heart and full of functionality"  ,
-  vide: "myImg10",  
+  ide: "myImg10",  
    close: "close10",
    modal: "myModal10",
    caption: "Futuristic Meuble",
