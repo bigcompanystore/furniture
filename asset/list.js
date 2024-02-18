@@ -87,17 +87,29 @@ const products = [
  {
     image:"asset/meuble..1.jpg" ,
     title: "chairs" ,
-    info: "various kinds of chairs"  ,
+    info: "various kinds of chairs"  , 
+  ide: "myImg9",  
+   close: "close9",
+   modal: "myModal9",
+   caption: "various kinds of chairs",
 },
  {
     image:"asset/meuble.1.jpg" ,
     title: "Futuristic Meuble" ,
     info: "My Meuble with artistic theme build with heart and full of functionality"  ,
+  vide: "myImg10",  
+   close: "close10",
+   modal: "myModal10",
+   caption: "Futuristic Meuble",
 },
  {
   image:"asset/meuble.2.jpg" ,
     title: "My Beautiful Meuble" ,
     info: "The scene and the beautiful landscape will force the creativity to build the meuble to the limit"  ,
+  ide: "myImg12",  
+   close: "close12",
+   modal: "myModal12",
+   caption: "Beautiful Meuble",
 },
 
 
