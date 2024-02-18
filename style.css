@@ -552,7 +552,7 @@ margin: 0;
 
 
 /* The Close Button */
-.close3 {
+.close3, .close9, .close10, .close12, .close13 {
   position: absolute;
   top: 15px;
   right: 35px;
@@ -563,7 +563,16 @@ margin: 0;
 }
 
 .close3:hover,
-.close3:focus {
+.close3:focus,
+.close9:hover,
+.close9:focus,
+.close10:hover,
+.close10:focus,
+.close12:hover,
+.close12:focus,
+.close13:hover,
+.close13:focus
+{
   color: #bbb;
   text-decoration: none;
   cursor: pointer;
