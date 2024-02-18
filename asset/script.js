@@ -215,3 +215,77 @@ var span8 = document.getElementsByClassName("close8")[0];
 span8.onclick = function() { 
   modal8.style.display = "none";
 }
+
+// Get the modal 9
+var modal9 = document.getElementById("myModal9");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img9 = document.getElementById("myImg9");
+
+img9.onclick = function(){
+  modal9.style.display = "block";
+}
+
+// Get the <span> element that closes the modal
+var span9 = document.getElementsByClassName("close9")[0];
+
+// When the user clicks on <span> (x), close the modal
+span9.onclick = function() { 
+  modal9.style.display = "none";
+}
+
+
+// Get the modal 10
+var modal10 = document.getElementById("myModal10");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img10 = document.getElementById("myImg10");
+
+img10.onclick = function(){
+  modal10.style.display = "block";
+}
+
+// Get the <span> element that closes the modal
+var span10 = document.getElementsByClassName("close10")[0];
+
+// When the user clicks on <span> (x), close the modal
+span10.onclick = function() { 
+  modal10.style.display = "none";
+}
+
+
+// Get the modal 12
+var modal12 = document.getElementById("myModal12");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img12 = document.getElementById("myImg12");
+
+img12.onclick = function(){
+  modal12.style.display = "block";
+}
+
+// Get the <span> element that closes the modal
+var span12 = document.getElementsByClassName("close12")[0];
+
+// When the user clicks on <span> (x), close the modal
+span12.onclick = function() { 
+  modal12.style.display = "none";
+}
+
+// Get the modal 13
+var modal13 = document.getElementById("myModal13");
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img13 = document.getElementById("myImg13");
+
+img13.onclick = function(){
+  modal13.style.display = "block";
+}
+
+// Get the <span> element that closes the modal
+var span13 = document.getElementsByClassName("close13")[0];
+
+// When the user clicks on <span> (x), close the modal
+span13.onclick = function() { 
+  modal13.style.display = "none";
+}
