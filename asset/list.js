@@ -79,11 +79,7 @@ const products = [
    modal: "myModal11",
    caption: "Japanese Table & Chair",
 },
-  {
-  image:"asset/meuble.11.jpg" ,
-    title: "Dumont Armoire - 72\" - Solid Cherry - Teak Finish - Mid Century Modern Inspired" ,
-    info: "Product Details, Stunning armoire built entirely in solid wood"  ,
-},
+ 
  {
     image:"asset/meuble..1.jpg" ,
     title: "chairs" ,
@@ -112,5 +108,14 @@ const products = [
    caption: "Beautiful Meuble",
 },
 
+  {
+  image:"asset/meuble.11.jpg" ,
+    title: "Dumont Armoire - 72\" - Solid Cherry - Teak Finish - Mid Century Modern Inspired" ,
+    info: "Product Details, Stunning armoire built entirely in solid wood"  ,
+ide: "myImg13",  
+   close: "close13",
+   modal: "myModal13",
+   caption: "Beautiful Meuble",
+},
 
   ]
