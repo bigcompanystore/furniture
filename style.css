@@ -583,7 +583,7 @@ margin: 0;
 
 /* The Close Button */
 .close3b, .close2b, .close11b, .close8b, .close7b, .close6b, .close5b, .closeb, .close12b, .close13b, .close14b, .close15b, .close16b, .close17b, .close18b, .close19b, .close20b,
-.close21b, .close22b, .close23b, .close24b{
+.close21b, .close22b, .close23b, .close24b, .close25b{
   position: absolute;
   top: 15px;
   right: 35px;
@@ -617,7 +617,8 @@ margin: 0;
 .close23b:hover,
 .close23b:focus, .close22b:hover,
 .close22b:focus, .close24b:hover,
-.close24b:focus
+.close24b:focus, .close25b:hover,
+.close25b:focus
 {
   color: #bbb;
   text-decoration: none;
