@@ -99,7 +99,7 @@ const handycrafts = [
   ide: "myImg13b",
    spot: "img0113b",
    close: "close13b",
-   modal: "myModal31b",
+   modal: "myModal13b",
    caption: "leather key chain",
 }, 
   {
