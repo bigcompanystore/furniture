@@ -1,5 +1,5 @@
 const productsEl = document.querySelector(".products");
-
+const gambarEl = document.querySelector(".gambar");
 
 function renderProducts() {
   products.forEach((product) => {
