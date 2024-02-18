@@ -136,6 +136,11 @@ const handycrafts = [
     image:"asset/kulit.16.jpg" ,
     title: "leather watch" ,
     info: "Homemade products made from cowhide and manually sewn by hand"  ,
+    ide: "myImg25b",
+   spot: "img0125b",
+   close: "close25b",
+   modal: "myModal25b",
+   caption: "leather watch",
 },
   {
     image:"asset/kulit.4.jpg" ,
