@@ -201,22 +201,22 @@ span3.onclick = function() {
 }
 
 
-// Get the modal 11
-var modal11 = document.getElementById("myModal11");
+// Get the modal 12
+var modal12 = document.getElementById("myModal12");
 
 // Get the image and insert it inside the modal - use its "alt" text as a caption
-var img11 = document.getElementById("myImg11");
+var img12 = document.getElementById("myImg12");
 
 img11.onclick = function(){
-  modal11.style.display = "block";
+  modal12.style.display = "block";
 }
 
 // Get the <span> element that closes the modal
-var span11 = document.getElementsByClassName("close11")[0];
+var span12 = document.getElementsByClassName("close12")[0];
 
 // When the user clicks on <span> (x), close the modal
-span11.onclick = function() { 
-  modal11.style.display = "none";
+span12.onclick = function() { 
+  modal12.style.display = "none";
 }
 
 
