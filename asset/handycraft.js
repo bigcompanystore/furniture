@@ -1,7 +1,7 @@
 const handycrafts = [
  {
-    image:"asset/kulit.29.jpg" ,
-    title: "leather key wrap" ,
+    image:"asset/kulit.30.jpg" ,
+    title: "leather bicycle saddle" ,
     info: "Homemade products made from cowhide and manually sewn by hand"  ,
    ide: "myImgb",
    
