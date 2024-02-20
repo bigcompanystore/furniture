@@ -10,6 +10,16 @@ const handycrafts = [
    caption: "leather knife case belt",
 },
  {
+    image:"asset/kulit.30.jpg" ,
+    title: "leather bicycle saddle" ,
+    info: "Homemade products made from cowhide and manually sewn by hand"  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
     image:"asset/kulit.29.jpg" ,
     title: "leather key wrap" ,
     info: "Homemade products made from cowhide and manually sewn by hand"  ,
