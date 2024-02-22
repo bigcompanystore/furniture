@@ -1,8 +1,8 @@
 const products = [
  {
- image:"asset/meuble.3.jpg" ,
-    title: "Buy Teak Wood Sofa Set Online | TeakLab" ,
-    info: "A sofa set is a truly regal piece of furniture for your home. Finely crafted from the best quality teak wood, its fineness is simply out of this world"  ,
+ image:"asset/meuble.12.jpg" ,
+    title: "Zelo Side Table - Handcrafted Mid Century Modern Inspired Furniture" ,
+    info: "Designed to be unique, beautiful and functional, the Zelo Side Table is a mid-century modern inspired piece of furniture."  ,
    ide: "myImg",
    
    close: "close",
