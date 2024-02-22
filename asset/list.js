@@ -1,8 +1,8 @@
 const products = [
  {
- image:"asset/meuble.12.jpg" ,
-    title: "Zelo Side Table - Handcrafted Mid Century Modern Inspired Furniture" ,
-    info: "Designed to be unique, beautiful and functional, the Zelo Side Table is a mid-century modern inspired piece of furniture."  ,
+ image:"asset/meuble.13.jpg" ,
+    title: "Laser cut dining chair" ,
+    info: "Designed to be unique, beautiful and functional."  ,
    ide: "myImg",
    
    close: "close",
