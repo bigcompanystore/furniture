@@ -1,8 +1,8 @@
 const products = [
  {
- image:"asset/meuble.14.jpg" ,
-    title: "Primitive & Simple – Dolmena Chair by Russian Manufacturer Polli" ,
-    info: "Looking through Russian manufacturer Prolli's portfolio it's interesting to see the eclectic mix of furniture running throughout. Situated in Moscow"  ,
+ image:"asset/meuble.15.jpg" ,
+    title: "Custom design // Wardrobe design style year 50" ,
+    info: "This wardrobe is made of plywood veneered oak, legs in solid oak L75cmcm, H 1m50, P 45cm"  ,
    ide: "myImg",
    
    close: "close",
