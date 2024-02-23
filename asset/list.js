@@ -10,6 +10,16 @@ const products = [
    caption: "Teakwood Sofa",
   },
  {
+ image:"asset/meuble.14.jpg" ,
+    title: "Primitive & Simple – Dolmena Chair by Russian Manufacturer Polli" ,
+    info: "Looking through Russian manufacturer Prolli's portfolio it's interesting to see the eclectic mix of furniture running throughout. Situated in Moscow"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.13.jpg" ,
     title: "Laser cut dining chair" ,
     info: "Designed to be unique, beautiful and functional."  ,
