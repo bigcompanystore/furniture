@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.19.jpg" ,
+    title: "Go Forth Bench" ,
+    info: "More tricks than a multi-tool Go Forth has everything you need to get the job done."  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.18.jpg" ,
     title: "Mid Century Shoe Rack, Acorn/Antique Brass" ,
     info: "Simple, sophisticated storage. Inspired by American modern design"  ,
