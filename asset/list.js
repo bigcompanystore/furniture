@@ -1,6 +1,6 @@
 const products = [
  {
- image:"asset/meuble.15.jpg" ,
+ image:"asset/meuble.16.jpg" ,
     title: "Vintage 1970s lounge rocking chair" ,
     info: "Vintage 1970s lounge rocking chair"  ,
    ide: "myImg",
