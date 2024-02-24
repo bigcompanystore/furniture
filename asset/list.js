@@ -1,8 +1,8 @@
 const products = [
  {
- image:"asset/meuble.16.jpg" ,
-    title: "Vintage 1970s lounge rocking chair" ,
-    info: "Vintage 1970s lounge rocking chair"  ,
+ image:"asset/meuble.17.jpg" ,
+    title: "Modern Upholstered Gray Shoe Rack Flip-Top Entryway Bench with Open Storage" ,
+    info: "Add glamour to your home with this Farmhouse Mini Upholstered Shoe Rack."  ,
    ide: "myImg",
    
    close: "close",
