@@ -10,6 +10,16 @@ const products = [
    caption: "Teakwood Sofa",
   },
  {
+ image:"asset/meuble.16.jpg" ,
+    title: "Vintage 1970s lounge rocking chair" ,
+    info: "Vintage 1970s lounge rocking chair"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.15.jpg" ,
     title: "Custom design // Wardrobe design style year 50" ,
     info: "This wardrobe is made of plywood veneered oak, legs in solid oak L75cmcm, H 1m50, P 45cm"  ,
