@@ -1,6 +1,6 @@
 const products = [
  {
- image:"asset/meuble.17.jpg" ,
+ image:"asset/meuble.18.jpg" ,
     title: "Mid Century Shoe Rack, Acorn/Antique Brass" ,
     info: "Simple, sophisticated storage. Inspired by American modern design"  ,
    ide: "myImg",
