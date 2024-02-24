@@ -1,6 +1,16 @@
 const products = [
  {
  image:"asset/meuble.17.jpg" ,
+    title: "Mid Century Shoe Rack, Acorn/Antique Brass" ,
+    info: "Simple, sophisticated storage. Inspired by American modern design"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
+ image:"asset/meuble.17.jpg" ,
     title: "Modern Upholstered Gray Shoe Rack Flip-Top Entryway Bench with Open Storage" ,
     info: "Add glamour to your home with this Farmhouse Mini Upholstered Shoe Rack."  ,
    ide: "myImg",
