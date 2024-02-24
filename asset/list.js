@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.20.jpg" ,
+    title: "Jenni Kayne Berkeley Nightstand Size 24" ,
+    info: "Artisan-crafted nightstand handmade from solid Oak wood"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.19.jpg" ,
     title: "Go Forth Bench" ,
     info: "More tricks than a multi-tool Go Forth has everything you need to get the job done."  ,
