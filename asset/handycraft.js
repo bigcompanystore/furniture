@@ -1,8 +1,8 @@
 const handycrafts = [
  {
-    image:"asset/kulit.31.jpg" ,
-    title: "leather card case" ,
-    info: "Homemade products made from cowhide and manually sewn by hand"  ,
+    image:"asset/kulit.32.jpg" ,
+    title: "Leather AirPods Pro Case" ,
+    info: "Leather AirPods Pro Case / Engraved Leather Case for AirPods Pro"  ,
    ide: "myImgb",
    
    close: "closeb",
