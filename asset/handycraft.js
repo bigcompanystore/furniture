@@ -10,6 +10,16 @@ const handycrafts = [
    caption: "leather knife case belt",
 },
  {
+    image:"asset/kulit.33.jpg" ,
+    title: "leather eyeglass case" ,
+    info: "leather eyeglass case, with leather necklace"  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
     image:"asset/kulit.32.jpg" ,
     title: "Leather AirPods Pro Case" ,
     info: "Leather AirPods Pro Case / Engraved Leather Case for AirPods Pro"  ,
