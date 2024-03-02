@@ -1,6 +1,6 @@
 const handycrafts = [
  {
-    image:"asset/kulit.32.jpg" ,
+    image:"asset/kulit.33.jpg" ,
     title: "leather eyeglass case" ,
     info: "leather eyeglass case, with leather necklace"  ,
    ide: "myImgb",
