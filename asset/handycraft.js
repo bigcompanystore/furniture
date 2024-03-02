@@ -1,5 +1,15 @@
 const handycrafts = [
  {
+    image:"asset/kulit.35.jpg" ,
+    title: "leather bottle hanger" ,
+    info: "leather bottle hanger, minimalist and cool"  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
     image:"asset/kulit.34.jpg" ,
     title: "leather drink bottle holder" ,
     info: "leather drink bottle holder, to hang on the belt"  ,
