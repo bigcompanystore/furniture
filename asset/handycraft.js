@@ -1,6 +1,16 @@
 const handycrafts = [
  {
     image:"asset/kulit.35.jpg" ,
+    title: "Lip Balm Holder leather" ,
+    info: "Another leather scrap buster and this one does not require sewing"  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
+    image:"asset/kulit.35.jpg" ,
     title: "leather bottle hanger" ,
     info: "leather bottle hanger, minimalist and cool"  ,
    ide: "myImgb",
