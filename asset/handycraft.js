@@ -1,5 +1,15 @@
 const handycrafts = [
  {
+    image:"asset/kulit.37.jpg" ,
+    title: "Grassfed Leather Keychain Wallet" ,
+    info: "There's no better way to keep your cards and keys together"  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
     image:"asset/kulit.36.jpg" ,
     title: "Lip Balm Holder leather" ,
     info: "Another leather scrap buster and this one does not require sewing"  ,
