@@ -1,5 +1,15 @@
 const handycrafts = [
  {
+    image:"asset/kulit.42.jpg" ,
+    title: "Leather Cute Pen Pouch" ,
+    info: "The handmade cute red leather pencil case can hold up to your pencils"  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
     image:"asset/kulit.41.jpg" ,
     title: "Leather fountain pen stand" ,
     info: "Leather fountain pen stand, Leather Pen Holder, Leather Desk Pen Holder"  ,
