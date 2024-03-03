@@ -1,5 +1,15 @@
 const handycrafts = [
  {
+    image:"asset/kulit.39.jpg" ,
+    title: "Leather Wallet OUTLAW SPECIAL EDITION" ,
+    info: "Leather Wallet OUTLAW SPECIAL EDITION, Dual Function, Custom Made, Full Leather, Wallet With Style."  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
     image:"asset/kulit.38.jpg" ,
     title: "Keys holder wallet" ,
     info: "Yellow card holder / Minimalist wallet"  ,
