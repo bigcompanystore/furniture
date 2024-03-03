@@ -1,5 +1,15 @@
 const handycrafts = [
  {
+    image:"asset/kulit.38.jpg" ,
+    title: "Keys holder wallet" ,
+    info: "Yellow card holder / Minimalist wallet"  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
     image:"asset/kulit.37.jpg" ,
     title: "Grassfed Leather Keychain Wallet" ,
     info: "There's no better way to keep your cards and keys together"  ,
