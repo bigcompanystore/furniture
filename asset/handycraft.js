@@ -1,5 +1,15 @@
 const handycrafts = [
  {
+    image:"asset/kulit.40.jpg" ,
+    title: "Leather Pen Holder, Pen Stand" ,
+    info: "Leather Pen Holder, Pen Stand, Gift For Men, Pencil Stand, Fountain Pen Holder"  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
     image:"asset/kulit.39.jpg" ,
     title: "Leather Wallet OUTLAW SPECIAL EDITION" ,
     info: "Leather Wallet OUTLAW SPECIAL EDITION, Dual Function, Custom Made, Full Leather, Wallet With Style."  ,
