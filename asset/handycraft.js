@@ -1,5 +1,15 @@
 const handycrafts = [
  {
+    image:"asset/kulit.41.jpg" ,
+    title: "Leather fountain pen stand" ,
+    info: "Leather fountain pen stand, Leather Pen Holder, Leather Desk Pen Holder"  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
     image:"asset/kulit.40.jpg" ,
     title: "Leather Pen Holder, Pen Stand" ,
     info: "Leather Pen Holder, Pen Stand, Gift For Men, Pencil Stand, Fountain Pen Holder"  ,
