@@ -1,5 +1,15 @@
 const handycrafts = [
  {
+    image:"asset/kulit.43.jpg" ,
+    title: "Crafted Brown Leather Valet Tray" ,
+    info: "Crafted Brown Leather Valet Tray - can be Engraved or Personalised"  ,
+   ide: "myImgb",
+   
+   close: "closeb",
+   modal: "myModalb",
+   caption: "leather knife case belt",
+},
+ {
     image:"asset/kulit.42.jpg" ,
     title: "Leather Cute Pen Pouch" ,
     info: "The handmade cute red leather pencil case can hold up to your pencils"  ,
