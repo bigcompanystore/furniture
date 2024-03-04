@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.21.jpg" ,
+    title: "Custom Made Walnut Whisky Cabinet" ,
+    info: "Hand Crafted. Hand Delivered. We spoke with the client and makers of this custom made walnut whisky cabinet to learn more about this treasured commission"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.20.jpg" ,
     title: "Jenni Kayne Berkeley Nightstand Size 24" ,
     info: "Artisan-crafted nightstand handmade from solid Oak wood"  ,
