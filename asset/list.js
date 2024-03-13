@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.25.jpg" ,
+    title: "Amazaing Aesthetic wooden wall" ,
+    info: "Aesthetic wooden wall bookshelf decorations collection"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.24.jpg" ,
     title: "Nederin Rain Cloud Gray Oak Bench" ,
     info: "Put it away, put it away, put it away, now. The Nederin bench is the beautiful workhorse that your foyer or mudroom deserves"  ,
