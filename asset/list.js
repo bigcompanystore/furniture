@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.27.jpg" ,
+    title: "Bedside Table Solid Oak" ,
+    info: "Solid oak bedside with shelf, made from solid boards of kiln dried oak"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.26.jpg" ,
     title: "Wooden Coffee Table" ,
     info: "Wooden Sofa Side Table - Modern Laptop Desk - Decorative Furniture Storage - Coffee Table For Living Room Fitment"  ,
