@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.23.jpg" ,
+    title: "Mid-Century Shoe Rack" ,
+    info: "Inspired by mid-century designs, this shoe rack keeps your footwear organized in style"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.22.jpg" ,
     title: "Custom Made Berkeley Nightstand" ,
     info: "Hand Crafted.Custom Made Berkeley Nightstand"  ,
