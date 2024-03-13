@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.26.jpg" ,
+    title: "Wooden Coffee Table" ,
+    info: "Wooden Sofa Side Table - Modern Laptop Desk - Decorative Furniture Storage - Coffee Table For Living Room Fitment"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.25.jpg" ,
     title: "Amazaing Aesthetic wooden wall" ,
     info: "Aesthetic wooden wall bookshelf decorations collection"  ,
