@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.28.jpg" ,
+    title: "End Tables & Side Tables" ,
+    info: "End Tables & Side Tables"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.27.jpg" ,
     title: "Bedside Table Solid Oak" ,
     info: "Solid oak bedside with shelf, made from solid boards of kiln dried oak"  ,
