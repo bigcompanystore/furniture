@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.29.jpg" ,
+    title: "Joey Modern Timber Planter" ,
+    info: "Customisable and sustainable timber furniture"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.28.jpg" ,
     title: "End Tables & Side Tables" ,
     info: "End Tables & Side Tables"  ,
