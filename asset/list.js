@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.30.jpg" ,
+    title: "toothbrush holder" ,
+    info: "a toothbrush holder is a great way to add aesthetics to your everyday life"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.29.jpg" ,
     title: "Joey Modern Timber Planter" ,
     info: "Customisable and sustainable timber furniture"  ,
