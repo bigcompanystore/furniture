@@ -1,5 +1,15 @@
 const products = [
  {
+ image:"asset/meuble.31.jpg" ,
+    title: "Solid wood cute tissue box" ,
+    info: "room household cartoon paper box/simple and creative desktop decoration"  ,
+   ide: "myImg",
+   
+   close: "close",
+   modal: "myModal",
+   caption: "Teakwood Sofa",
+  },
+ {
  image:"asset/meuble.30.jpg" ,
     title: "toothbrush holder" ,
     info: "a toothbrush holder is a great way to add aesthetics to your everyday life"  ,
